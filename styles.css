@@ -29,6 +29,7 @@
   padding: 2.5px;
   border: 2px solid white;
 }
+
 /* box 2 */
 .add-first {
   color: #cccccc;
@@ -44,7 +45,7 @@
 }
 
 /* box 3 */
-.nev-search {
+.nav-search {
   display: flex;
   justify-content: space-evenly;
   background-color: pink;
@@ -80,7 +81,7 @@
   border-bottom-right-radius: 4px;
 }
 
-/***box 4 ***/
+/* box 4 */
 span {
   font-size: 0.7rem;
 }
@@ -88,11 +89,11 @@ span {
   font-size: 0.85rem;
   font-weight: 700;
 }
-.nev-search:hover {
+.nav-search:hover {
   border: 2px solid orange;
 }
 
-/***box 6 ***/
+/* box 6 */
 .nav-card i {
   font-size: 30px;
 }
@@ -101,8 +102,8 @@ span {
   font-weight: 700;
 }
 
-/** panal **/
-.panal {
+/* panel */
+.panel {
   height: 40px;
   background-color: #222f3d;
   display: flex;
@@ -110,25 +111,27 @@ span {
   align-items: center;
   justify-content: space-evenly;
 }
-.panal-ops p {
+.panel-ops p {
   display: inline;
-  margin-left: 10px;
+  margin-left: 15px;
 }
-.panal-ops {
+.panel-ops {
   width: 75%;
   font-size: 0.8rem;
 }
-.panal-deals {
+.panel-deals {
   font-size: 0.9rem;
   font-weight: 700;
 }
-/** hero section **/
+
+/* hero section */
 .hero-section {
   background-image: url("images/hero_image.jpg");
   height: 350px;
   background-size: cover;
 }
-/** shop section **/
+
+/* shop section */
 .shop-section {
   display: flex;
   flex-wrap: wrap;
@@ -157,7 +160,8 @@ span {
 .box-content p {
   color: #007185;
 }
-/** footer **/
+
+/* footer */
 footer {
   margin-top: 15px;
 }
