@@ -209,3 +209,18 @@ ul a {
   color: #dddddd;
   text-decoration: none;
 }
+.foot-panel3 {
+  background-color: #222f3d;
+  color: white;
+  border-top: 0.5px solid white;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  background-image: url("images/amazon_logo.png");
+  background-size: cover;
+  height: 50px;
+  width: 100px;
+}
