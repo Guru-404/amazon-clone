@@ -22,9 +22,11 @@
   width: 100%;
 }
 .border {
+  padding: 2.5px;
   border: 2px solid transparent;
 }
 .border:hover {
+  padding: 2.5px;
   border: 2px solid white;
 }
 /* box 2 */
