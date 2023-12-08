@@ -183,12 +183,29 @@ span {
 footer {
   margin-top: 15px;
 }
-.foot-panal1 {
+.foot-panel1 {
   background-color: #37475a;
   color: white;
-  height: 56px;
+  height: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 0.85rem;
+}
+.foot-panel2 {
+  background-color: #222f3d;
+  color: white;
+  height: 300px;
+  display: flex;
+  justify-content: space-evenly;
+}
+ul {
+  margin-top: 20px;
+}
+ul a {
+  display: block;
+  font-size: 0.85rem;
+  margin-top: 10px;
+  color: #dddddd;
+  text-decoration: none;
 }
