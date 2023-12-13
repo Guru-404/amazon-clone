@@ -183,9 +183,9 @@ span {
 }
 
 /* footer */
-footer {
+/* footer {
   margin-top: 15px;
-}
+} */
 .foot-panel1 {
   background-color: #37475a;
   height: 50px;
@@ -239,10 +239,6 @@ ul a {
   height: 80px;
   font-size: 0.7rem;
   text-align: center;
-  /* display: flex;
-  justify-content: center;
-  align-items: center; */
-
 }
 .pages {
   padding-top: 25px;
