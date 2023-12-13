@@ -62,7 +62,7 @@
   border: none;
 }
 .search-select option {
-    padding: 5px;
+  padding: 5px;
 }
 .search-input {
   width: 100%;
@@ -147,6 +147,9 @@ span {
 .hero-msg a {
   color: #007185;
   text-decoration: none;
+}
+.hero-msg a:hover {
+  text-decoration: underline;
 }
 
 /* shop section */
