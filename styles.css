@@ -161,11 +161,11 @@ span {
 }
 .box {
   border: 2px solid black;
-  height: 400px;
+  height: 375px;
   width: 23%;
   background-color: white;
   padding: 20px 0px 15px;
-  margin-top: 5px;
+  margin: 20px 0;
 }
 .box-image {
   height: 300px;
@@ -178,8 +178,12 @@ span {
   margin-left: 1rem;
   margin-right: 1rem;
 }
-.box-content p {
+.box-content a {
   color: #007185;
+  text-decoration: none;
+}
+.box-content a:hover {
+  text-decoration: underline;
 }
 
 /* footer */
