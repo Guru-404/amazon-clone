@@ -252,6 +252,9 @@ ul a {
   text-decoration: none;
   padding: 0 7.5px;
 }
+.pages a:hover {
+  text-decoration: underline;
+}
 .copyright {
   padding-top: 5px;
 }
